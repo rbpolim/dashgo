@@ -17,11 +17,11 @@
 
 ### Functionalities
 <ul>
-  <li>Explore and manage users ;</li>
+  <li>Explore and manage users;</li>
   <li>Explore the numbers with graphs;</li>
   <li>Create a new users;</li>
-  <li>Responsive application for mobile version;</li>
-  <li>Build with a Styled UI - Chakra;</li>
+  <li>Responsive application for a mobile version;</li>
+  <li>Build with Styled Chakra-UI;</li>
 </ul>
 
 ### :bookmark: Layout
@@ -38,7 +38,7 @@
  <img
   src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
   alt="Dashgo" 
-  with="50px"
+  width="50px"
 />
 </p>
 
