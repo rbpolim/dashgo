@@ -27,10 +27,11 @@
 ### :bookmark: Layout
 
 <p align="center">
+ <strong>Users</strong>
  <img
   src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
   alt="Dashgo" 
-  width="720px"
+  width="800px"
 />
 </p>
 
