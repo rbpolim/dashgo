@@ -2,12 +2,6 @@
 
 ![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114092146-eb475d00-988f-11eb-8618-0f30b2f4b7ad.png)
 
-<p align="center">
- <img
-  src="![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114091301-e635de00-988e-11eb-9fa6-747376668b83.png)"
-  alt="Ignews" />
-</p>
-
 ### :computer: Project
 
 <p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive. Built with NextJS and Chakra-ui.</p>
@@ -31,4 +25,21 @@
 </ul>
 
 ### :bookmark: Layout
-- [Figma](https://www.figma.com/file/gl0fHkQgvaUfXNjuwGtDDs/ig.news?node-id=1%3A2)
+
+![new-dashgo-users](https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png)
+
+<p align="center">
+ <img
+  src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
+  alt="Dashgo" />
+</p>
+
+<p align="center">
+ <img
+  src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
+  alt="Dashgo" 
+  with="50px"
+/>
+</p>
+
+
