@@ -25,7 +25,6 @@
 ### :bookmark: Layout
 
 <p align="center">
- <strong>Users</strong>
  <img
   src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
   alt="Dashgo" 
@@ -34,7 +33,6 @@
 </p>
 </br>
 <p align="center">
- <strong>Create User</strong>
  <img
   src="https://user-images.githubusercontent.com/66570560/114093271-46c61a80-9891-11eb-808a-62016523d6d7.png"
   alt="Dashgo" 
@@ -42,12 +40,20 @@
 />
 </p>
 </br>
-<p align="center">
- <strong>Menu responsive | Mobile version</strong>
- <img
-  src="https://user-images.githubusercontent.com/66570560/114093465-84c33e80-9891-11eb-9de0-c11a86e4783f.png"
-  alt="Dashgo" 
-/>
-</p>
+
+<div display="flex">
+  <p>
+    <img
+      src="https://user-images.githubusercontent.com/66570560/114093465-84c33e80-9891-11eb-9de0-c11a86e4783f.png"
+      alt="Dashgo" 
+    />
+  </p>
+  <p>
+    <img
+      src="https://user-images.githubusercontent.com/66570560/114099066-9fe57c80-9898-11eb-99b6-ab879966a391.png"
+      alt="Dashgo" 
+    />
+  </p>
+</div>
 
 
