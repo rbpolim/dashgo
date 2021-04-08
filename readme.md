@@ -1,5 +1,7 @@
 # dashgo.
 
+![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114092146-eb475d00-988f-11eb-8618-0f30b2f4b7ad.png)
+
 <p align="center">
  <img
   src="![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114091301-e635de00-988e-11eb-9fa6-747376668b83.png)"
