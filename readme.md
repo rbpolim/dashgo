@@ -42,12 +42,11 @@
 />
 </p>
 </br>
-<p align="Menu responsive | Mobile version">
- <strong>Create User</strong>
+<p align="center">
+ <strong>Menu responsive | Mobile version</strong>
  <img
   src="https://user-images.githubusercontent.com/66570560/114093465-84c33e80-9891-11eb-9de0-c11a86e4783f.png"
   alt="Dashgo" 
-  width="800px"
 />
 </p>
 
