@@ -1,8 +1,10 @@
-![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114092146-eb475d00-988f-11eb-8618-0f30b2f4b7ad.png)
-
 ### :computer: Project
 
-<p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive. Built with NextJS and Chakra-ui.</p>
+<p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive for mobile version. 
+</br>Built with NextJS and Chakra-ui.</p>
+
+### 🎥 Video Walktrough
+![dashgo-video-edited-mp4](https://user-images.githubusercontent.com/66570560/114241474-91ae6380-995f-11eb-81df-a4ec0355493b.gif)
 
 ### :rocket: Technologies
 - [ReactJS](https://)
@@ -12,10 +14,6 @@
 - [React-hook-form](https://)
 - [React Icons](https://)
 - [YUP](https://)
-
-### 🎥 Video Walktrough
-
-![dashgo-video-edited](https://user-images.githubusercontent.com/66570560/114236456-0382af00-9958-11eb-8ceb-d84e062dd260.gif)
 
 ### 💡 Functionalities
 <ul>
