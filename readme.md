@@ -13,6 +13,10 @@
 - [React Icons](https://)
 - [YUP](https://)
 
+### 🎥 Video Walktrough
+
+![dashgo-video-edited](https://user-images.githubusercontent.com/66570560/114236456-0382af00-9958-11eb-8ceb-d84e062dd260.gif)
+
 ### 💡 Functionalities
 <ul>
   <li>Explore and manage users;</li>
