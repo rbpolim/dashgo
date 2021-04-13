@@ -3,7 +3,7 @@
 <p align="center">
  <img
   src="![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114091301-e635de00-988e-11eb-9fa6-747376668b83.png)"
-  alt="Ignews" />
+  alt="Dashgo" />
 </p>
 
 ### :computer: Project
