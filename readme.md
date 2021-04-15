@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # dashgo.
 
 <p align="center">
@@ -7,8 +6,6 @@
   alt="Dashgo" />
 </p>
 
-=======
->>>>>>> 1f5a99dedfeb6bcc320ce46cf91bd635c2040232
 ### :computer: Project
 
 <p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive for mobile version. 
