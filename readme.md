@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+# dashgo.
+
+<p align="center">
+ <img
+  src="![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114091301-e635de00-988e-11eb-9fa6-747376668b83.png)"
+  alt="Dashgo" />
+</p>
+
+>>>>>>> b99e3acfe42a6d226e55e0905eb1d7f27e889451
 ### :computer: Project
 
 <p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive for mobile version.
