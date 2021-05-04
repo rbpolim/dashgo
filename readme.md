@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-# dashgo.
-
-<p align="center">
- <img
-  src="![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114091301-e635de00-988e-11eb-9fa6-747376668b83.png)"
-  alt="Dashgo" />
-</p>
-
-=======
->>>>>>> 1f5a99dedfeb6bcc320ce46cf91bd635c2040232
 ### :computer: Project
 
-<p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive for mobile version. 
+<p>Dashgo. is an application to manage and explore users with a modern dashboard, with graphs and responsive for mobile version.
 </br>Built with NextJS and Chakra-ui.</p>
 
-### 🎥 Video Walktrough
-![dashgo-video-edited-mp4](https://user-images.githubusercontent.com/66570560/114241474-91ae6380-995f-11eb-81df-a4ec0355493b.gif)
+### 🎥 Dashboard
+![new-dashgo-dashboard](https://user-images.githubusercontent.com/66570560/114625425-9c7f3600-9c88-11eb-932c-9d61efc1a948.png)
 
 ### :rocket: Technologies
 - [ReactJS](https://)
@@ -30,7 +19,7 @@
 <ul>
   <li>Explore and manage users;</li>
   <li>Explore the numbers with graphs;</li>
-  <li>Create a new users;</li>
+  <li>Create new users;</li>
   <li>Responsive application for a mobile version;</li>
   <li>Build with Styled Chakra-UI;</li>
 </ul>
@@ -40,7 +29,7 @@
 <p align="center">
  <img
   src="https://user-images.githubusercontent.com/66570560/114092357-2cd80800-9890-11eb-8713-1a983e1e5008.png"
-  alt="Dashgo" 
+  alt="Dashgo"
   width="800px"
   object-fit="cover"
 />
@@ -49,7 +38,7 @@
 <p align="center">
  <img
   src="https://user-images.githubusercontent.com/66570560/114093271-46c61a80-9891-11eb-808a-62016523d6d7.png"
-  alt="Dashgo" 
+  alt="Dashgo"
   width="800px"
 />
 </p>
